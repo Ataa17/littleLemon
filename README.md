@@ -47,6 +47,12 @@ This is a Django project designed for a restaurant booking system. It includes  
    ```bash
    python manage.py createsuperuser
    ```
+6. **Create MySQL Database**
+
+   ```bash
+   Create a mysql database named littlelemon
+   and set its password to "0000"
+   ```
 
 ## Running the Project
 
